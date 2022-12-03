@@ -1,0 +1,955 @@
+[
+	{
+	"name": "The Beginning - Your Best Pal",
+	"type": "memo",
+	"subtype" : "JDS",
+	"comments" : "On the desk immediately to the left of beginning the game<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827248421/6FB9C801AEFB96BBA7B0E50D5B3946BB3D655A93/"]
+	},
+	{
+	
+	"name":"Gent Property - Alen Gray",
+	"type":"memo",
+	"subtype": "GENT",
+	"comments":"In the cabinet above the desk immidately to the left of starting the game, above The Beginning Note<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827248679/9FE16F67C51A660A3529A1DF33A8DFAF2FCC435C/"]
+	},
+	{
+	
+	"name":"Hard Times - Telly Wester",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located on desk above where you start after the ladder<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827268741/354D008468D832EDDEF017BED4197CEF5C5896B6/"]
+	},
+	{
+	
+	"name":"Let's Talk - Sammy Lawrence",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located on a barrel in the first hallway<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827273308/4F526A21B516F75BF5A423C99EB47ECBFE0E2A37/"]
+	},
+	{
+	
+	"name":"It Is Close - Unknown",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"Located on a crate next to a popup of Bendy.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827278142/6C57A3E2E1EB0DA6C82ABB3882009FC7B6A69C7E/"]
+	},
+	{
+	
+	"name":"Better Things - Shawn Flynn",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located inside a desk to the right of the fountain in the Heavenly Toys<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827313911/43ECEAFFB12365B60B90389C9533957EB1CFC784/"]
+	},
+	{
+	
+	"name":"Beast In Chains - Unknown",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"Located in a drawer in a desk with a chair on it above the climbable wall<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827352975/43F9FCC342FCE1C184D36CAF85188AD9153B9B78/"]
+	},
+	{
+	
+	"name":"Be Careful - Your Best Pal",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"On a stool just past the climbing wall in Heavenly Toys<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827351648/5302C2D1D31DF26B90688AECD67FA2D5B8D91792/"]
+	},
+	{
+	
+	"name":"A Complaint - Unknown",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located near the door code in the Heavenly Toys<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827343612/5119464C735ED5DD3B8126005F14165B69949648/"]
+	},
+	{
+	
+	"name":"Getting Serious - Sally Newt",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located in a cabinet in the office to the right of Artists Alley Entrance<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827597378/3AC8B6CFF6A70A5D942C27CCAAAFF5E7568B54B2/"]
+	},
+	{
+	
+	"name":"In My Mind - Unknown",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"In an office to the right of the gate out of Artists Atrium, the one closest to the Little Devils Lounge<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827494176/48ADE824087AD7CE444A47CB36BADCCBB06232F8/"]
+	},
+	{
+	
+	"name":"Close Call - Hudson Doyle",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located on a desk in Artist's Atrium around where you get the GENT pipe<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827540553/3B816B15E8FCED0730D636FD7BE1CFC1CB3E0917/"]
+	},
+	{
+	
+	"name":"A Bit of Fate - Chef Buck",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"This is located in the Little Devils Lounge Kitchen Office <br>(the locked door next to the fuise) on the desk<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827586839/72883979AE53FB528646AB02FE943A86417C1A3A/"]
+	},
+	{
+	
+	"name":"The Slug Problem - Hudson Doyle",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"In the Arists Atrium there is an office to the left that contains this note on a desk<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827486606/B3645D7087C030F62E684FCB861FB7CE9F676CA2/"]
+	},
+	{
+	
+	"name":"Business As Usual - Thomas Connor",
+	"type":"memo",
+	"subtype": "GENT",
+	"comments":"Located on a stool next to the switch for the door in artists Alley<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827613922/0EF6E6B63E520A9D3F1EF69694BDB148C89E33FD/"]
+	},
+	{
+	
+	"name":"Lament - Unknown",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"Located in a small alcove of a vent headed towards the animators room (the one where you got the 5 photos)<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827618861/DA0D9DF69B0A61ED3F3D8D6E78AFC3FBB5805A51/"]
+	},
+	{
+	
+	"name":"Originality - Unknown",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"Located on a crate in the room byond the 'Don't Knock' door.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827706509/C1F752B47E29D0CB5E6710E94F1CBFA5598280A1/"]
+	},
+	{
+	
+	"name":"Over and Over - Phil Clark",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"In the projector room sitting on a bench<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827715243/114CFCB32FFCE3E34D9960F2E486126A6779D29B/"]
+	},
+	{
+	
+	"name":"Locker Code - wally Franks",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located next to a GENT lock in the Locker Room<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827771518/2477585F810E153579170F52F76DD06F18228ECB/"]
+	},
+	{
+	
+	"name":"Crane Keys - Muncie Dunn",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located next to the Hoist Controls in Artist's Rest<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827804822/F722CE6BB735D7A4AE2F6BC881445996E2D69585/"]
+	},
+	{
+	
+	"name":"The Ghosts - Unknown",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"Located in Artists rest Sauna room on a stool<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827827693/E6750948C76C907C41BF71413979C305FD30189C/"]
+	},
+	{
+	
+	"name":"Trafic Jam - Hudson Doyle",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located on a bench in Elevator Rest Stop<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827948980/A8C514735CFF8D973D56F8603B28738AE5EB4401/"]
+	},
+	{
+	
+	"name":"Who We Are - Unknown",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"Located to the left of the elevator in the Elevator rest stop behind a breakable wall<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827960701/6B79DDBD8928B485C7E1DEE68D4159B0C9554B39/"]
+	},
+	{
+	
+	"name":"Something Familiar - Your Best Pal",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located on the bed in Joey Drew's Safe House<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827992141/C1E0821407FAE685AF52391AF9A6B3ED37A2676B/"]
+	},
+	{
+	
+	"name":"White Rabbit - Your Best Pal",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Located on a desk while leaving Joey Drew's Safe House towards the City<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828002888/D56AACE146796D90681923BF3DEAF28120A1E602/"]
+	},
+	{
+	
+	"name":"Tunnel Controls - Muncie Dunn",
+	"type":"memo",
+	"subtype": "GENT",
+	"comments":"Located on a oil drum next to a hiding locker near the pump controls and security lever for the pump controls<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828023161/2C5CF343E3514A05FBDBD9B020039FE6E6546024/"]
+	},
+	{
+	
+	"name":"Next In Line - Unknown",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"On a barrel before the exit of the sewers<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828036510/B07EA0A39A53AB3D39BAC8726A3B5C5481644BF5/"]
+	},
+	{
+	
+	"name":"Daily Headache - Eugene Lloyd",
+	"type":"memo",
+	"subtype": "GENT",
+	"comments":"mandatory to progress<br>",
+	"comments":"located in a trashcan bendy points out <br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1981050588097802710/C4F7B7FD1A6344689E50E3F9944DB4AFFD3E1A63/"]
+	},
+	{
+	
+	"name":"Feeding Time - Unknown",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"Located in Lurker's Layer, back room located off the side of the second keeper room in the GENT Building, on barrel on scaffolding <br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828105936/B523CAB3BAF1252108C50C7CA08E5598B34987F0/"]
+	},
+	{
+	
+	"name":"True Daughter - Joey",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"On some scafolding in the second Keeper room in the GENT Building<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828120015/DA4E486D0DC3C4A25898FB6D50F545521048F313/"]
+	},
+	{
+	
+	"name":"Ghost Train - Kitty Tompson",
+	"type":"memo",
+	"subtype": "JDS",
+	"comments":"Sitting on a bench of Platform 77 <br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828232729/4D6ADF0DC089C7A548CF59E71D4ABBA0E69A1665/"]
+	},
+	{
+	
+	"name":"Stolen Beauty - Alice Angel",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"On a night stand between Alice Angels Arena and the first Keeper in the Northern Wing<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828305278/250FB0AE75A046447E3E1EB0458D56200ECEAE4A/"]
+	},
+	{
+	
+	"name":"Two of a Kind - A friend",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"On an oil drum between the two keeper sections in the Northern Wing<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828312373/D498ADE945DEE06A7EAB1AE9FA7FA2AD288E0CDA/"]
+	},
+	{
+	
+	"name":"He Will Return - Sammy Lawrence",
+	"type":"memo",
+	"subtype": "Lost One",
+	"comments":"Next to a Bendy plush in an alcove headed toward the music box key<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828314024/64F91ED5242F5D33F867F218C658CF55CD7C4DDE/"]
+	},
+	{
+	
+	"name":"End of An Era - Nathan Arch",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located on a desk just past the Welcome Hall before the first climbing wall.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827301449/40098F48DE6A453476637707DF506DE41BD7E8CD/"]
+	},
+	{
+	
+	"name":"Hardly Working - Angus Newman",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located in the stairwell of Heavenly Toys in an alcove you need to Flow or Climb to<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827369560/54680F317E7C69CCE36AEFB193969680CC27D10A/"]
+	},
+	{
+	
+	"name":"Door Codes - Dale Little",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located on a desk after Heavenly Toys<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1981050588097801715/734C0DE845E1528067D862893A91EEFBF437B0EA/"]
+	},
+	{
+	
+	"name":"The Machine - Wilson",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"on the desk just past the first combination door that is graffiti-ed with 'He Sees Everything'<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827434013/6EDDFC419722D794DB93A17257CEBFF7003322E0/"]
+	},
+	{
+	
+	"name":"Moving On - Shawn Flynn",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"Backtracking Required this is located in an alcove above a switch for a door that was shut by a piper when you first got there.it is sitting on a desk <br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827443088/72A416F95EBBEFDBADB3F9EFBA77DFB7661A20AA/",
+	"https://steamuserimages-a.akamaihd.net/ugc/1932635845827452307/C260658975827DD8F3CB1EB85222441E6D8E2A9B/"]
+	},
+	{
+	
+	"name":"Inspiration - Nathan Arch",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"on a crate by the entrance to Arists Alley<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827494010/9377C3BE3D92340654B7D263678F0D6ACE1327F0/"]
+	},
+	{
+	
+	"name":"Hiding Treasures - Kay Lee",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"in the Arists Atrium Supply Room on a small table next to a plush of bendy<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827531458/6D1B82EB56A7648A4FC6A35AC5A32748F37E7ED6/"]
+	},
+	{
+	
+	"name":"Strange Money - Grant Cohen",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located in a desk in the office to the right of the entrince of Artists Alley<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827518415/5E0AFB6C0BE882DA711E2B7499AB44FA6B2263E8/"]
+	},
+	{
+	
+	"name":"Dancing Clock - Bill Danton",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located on a podium in a back area of Animators Alley Work Area, Tick Tock.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827674935/C91C75326DB24403325235951763762E0A3A91AF/"]
+	},
+	{
+	
+	"name":"Productive Day - Phil Clark",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located in the locker inside the Animators Alley Workarea, grab this before you grab the other items in here.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827692644/CA4153A2730E225673F049A5380732E37784EAC9/"]
+	},
+	{
+	
+	"name":"The Snake - Wilson",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"in the projector room sitting on a small table<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827718265/7698890F49EF8911AE5987487DF1DD94A62D23EE/"]
+	},
+	{
+	
+	"name":"She is the Fourth - Jane Todd",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located in the hallway of the Projection Room, near where you can activate Carley.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827738234/F9F60410117207C282AD7A5241D56C5E9CC67B34/"]
+	},
+	{
+	
+	"name":"Grand Opening - Nathan Arch",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located on an oil drum just past the hallway from the Projection Room.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827744331/A5C3E361A47CCB6CAEC7AD5D1F252DFE5AEB659C/"]
+	},
+	{
+	
+	"name":"Wierdness - Lance Derby",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located in the locker room in a cart in the first room.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827892108/4635E265692A0D92EDDC65F513764176C16ED342/"]
+	},
+	{
+	
+	"name":"After Hours - Hank Scott",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"in the center structure of Artist's Rest on the counter<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827800771/C0BA994816E6805900D0E5E6AD5220D1417CA14B/"]
+	},
+	{
+	
+	"name":"The Exhibit - Nathan Arch",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located on top of an oil barrel on the upper floor exit of artist's Rest<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827856852/E6949240DD8AB8B8E2AB1E6F7B1DEC55F2758084/"]
+	},
+	{
+	
+	"name":"Dark Places - Grace Conway",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located on the right side of the room near the back of an alcove in some trash<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828006951/1E5C9F20866B1DAA69170B6942D8E2F53EE49C86/"]
+	},
+	{
+	
+	"name":"Sewer Songs - Jack Fain",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located on a desk with sheet music in the left side rooms.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828022697/BEB07DBEF7BDDEC1F956286A9207AEB654D6CA0F/"]
+	},
+	{
+	
+	"name":"Trouble Town - Kitty Thompson",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located inside a car in the city<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828058949/E507924D73CD6E3CDE6122BDE54ED8F47C7BD59F/"]
+	},
+	{
+	
+	"name":"New Job - Steve McGregor",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located on a bench next to the movie Theatre in the City next to the Hotel<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828633978/E1A55495701397D9D1B40B731B6A40A8AC619DD3/"]
+	},
+	{
+	
+	"name":"Chapter One - Wally Franks",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"this one is located in the Old Studio in Chapter 4 when Joey takes you there. to get it Flow thru a hole in the Ceiling to the left of the projector Joey is at.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845826603267/809D16DBFE53E1A8E197F9A62913B968783EE7F8/"]
+	},
+	{
+	
+	"name":"Paid to Die - Arche Carter",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"Entrance Hallway of the GENT Building sitting on an oil drum<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828089936/42B9E914D52DFCE23FB0104656CFDAD84701D3B0/"]
+	},
+	{
+	
+	"name":"Keeper Log 13",
+	"type":"audio log",
+	"subtype": "Keeper",
+	"comments":"in the first keeper room near the switch for the door to progress<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828105676/BAF28584559E5403BF8CEF32190C1570E58BC431/"]
+	},
+	{
+	
+	"name":"Keeper Log 26",
+	"type":"audio log",
+	"subtype": "Keeper",
+	"comments":"up a ladder to the right in the second keeper room on a desk<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828105766/87B6A4F49D609F12016554A432A79F11522BEA32/"]
+	},
+	{
+	
+	"name":"Keeper Log 44",
+	"type":"audio log",
+	"subtype": "Keeper",
+	"comments":"up on a desk in the Lurkers Layer, the room off the side of the second Keeper room of the GENT Building<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828190510/1B42F805F400346805DFB85773CD0E3808D789E8/"]
+	},
+	{
+	
+	"name":"A Gift to Mankind - Wilson",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"located on a lounge couch in the Southern Wing at the very end of the hall near the guest room<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828621308/CB548CE7FEE8B3FC1AF9480AC9FF9CF822631160/"]
+	},
+	{
+	
+	"name":"In Plain Sight - Wilson",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"on a chair between the Alice Angel Area and the first keeper segment of the Northern Wing<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828625128/91B3E4E6097F94DD856B50AD5890F12D0A38157B/"]
+	},
+	{
+	
+	"name":"The Bigger Things - Nathan Arch",
+	"type":"audio log",
+	"subtype": "",
+	"comments":"this one is past the point of no return, it is located on the right side of the room sitting on a bench<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827168576/3189E87015F7AD064C4C8BB1C88D2FD2B79093FF/"]
+	},
+	{
+	
+	"name":"Baseball",
+	"type":"Memory",
+	"subtype": "",
+	"comments":"located in a cabinet above the desk just past the first hallway.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827303979/ADE6AC0ED7709F798766DD457C5FECE118D81EA8/"]
+	},
+	{
+	
+	"name":"Paper Airplane",
+	"type":"Memory",
+	"subtype": "",
+	"comments":"in the hallway just past the Heavenly toys you can Flow Past a gate to access a part of the hallway where the paper airplane will be sitting on a barrel<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827407241/9D2A12DEC60F9690345D5A3D0996E3F86C120049/"]
+	},
+	{
+	
+	"name":"Rubber Duck",
+	"type":"Memory",
+	"subtype": "",
+	"comments":"located in a locker in the Animation Alley Vents (just before Animation Alley the place where they introduce the Ink Demon properly)<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827642732/2BF2989F8E398FDCFF38517D509D9B77611299E7/"]
+	},
+	{
+	
+	"name":"Engine Oil",
+	"type":"Memory",
+	"subtype": "",
+	"comments":"in Animator's Rest on the upper floor near the door for 'Upper Beds' in a tash can<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827820581/2F5142996AF330BCF9B74E760FF17161B85F3DFA/"]
+	},
+	{
+	
+	"name":"Alarm Clock",
+	"type":"Memory",
+	"subtype": "",
+	"comments":"located in a alcove in the Elevator shaft linking Artists Rest to the Sewers<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827962633/7984B3226BC1922670C6986096DB6F48F969AC40/",
+		"https://steamuserimages-a.akamaihd.net/ugc/1932635845827962692/5464656E32B9D890F97E7B31E375C65768773F62/"]
+	},
+	{
+	
+	"name":"Fashionable Hat",
+	"type":"Memory",
+	"subtype": "",
+	"comments":"located on the Platform of the Train in the city over in the corner locker, not accessable till after chapter 4.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828200014/BCC8BD5B5D6D026920C2A0D03999CD42A437AE00/"]
+	},
+	{
+	
+	"name":"Crayons",
+	"type":"Memory",
+	"subtype": "",
+	"comments":"Located in the Old Studio, where Joey Drew takes you in part 4. it is located in a hole in the ceiling in the hall towards the ink machine<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845826604467/948B5FD0F148D9214CBB68F85634DEBB5C4F1472/"]
+	},
+	{
+	
+	"name":"Milk Carton",
+	"type":"Memory",
+	"subtype": "",
+	"comments":"located to the left of the entrice to the pit next to a sandwich<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828166037/71E586B52E815E09F0C0CDB90A29B169C5A7B214/"]
+	},
+	{
+	
+	"name":"Cracked Mug",
+	"type":"Memory",
+	"subtype": "",
+	"comments":"a reward after helping the maid with her quest, it is located in the fountain<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828302864/C16FD686E39DA22DCF108012718751D7753508C2/"]
+	},
+	{
+	
+	"name":"Hot Dog",
+	"type":"Memory",
+	"subtype": "",
+	"comments":"located past a point of no return, it is in a locker on the right side of the room<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827167928/672824BACA3FAF0A8AC1556396DCFD23FBC0CC4F/"]
+	},
+	{
+	
+	"name":"Welcome Home",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"in the tube behind where you start<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827256474/AD19D7BF1C49C7D99DAC37B511310E03622A7D70/"]
+	},
+	{
+	
+	"name":"Heavenly Toys",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"in the Heavenly Tops stairwell in a barrel that is breakable sitting ontop of another barrel<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827369684/9A582B10D9F3133E1C21A9B2DFF7C50F483E5DDB/"]
+	},
+	{
+	
+	"name":"Heavenly Toys Factory",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827443088/72A416F95EBBEFDBADB3F9EFBA77DFB7661A20AA/",
+	"https://steamuserimages-a.akamaihd.net/ugc/1932635845827452307/C260658975827DD8F3CB1EB85222441E6D8E2A9B/"]
+	},
+	{
+	
+	"name":"Artists Alley Entrance Hallway",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located on a chouch next to bendy after the scene where the ink talks to you<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827562284/C3A76F653D17A7A38104D1D59DA643DBE4B42BCD/"]
+	},
+	{
+	
+	"name":"Animators Alley",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"inside a crate located above an office<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827669358/2C5EE77F5D6D173BBB7BB96B0321216DC2647069/"]
+	},
+	{
+	
+	"name":"Projector Room Booth",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located in a cabinet in the Projector Room projection Booth<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827729932/2A8A8256366FEDFC5DCF9A5739FB9B9D98C5E419/"]
+	},
+	{
+	
+	"name":"Artist's Alley Locker Room",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located in the Locker room closer to the GENT lock and the power upgrade for the GENT pipe<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827774924/0D533480AD5E94BB820E2B5A3943CD3FFB89AD00/",
+	"https://steamuserimages-a.akamaihd.net/ugc/1932635845827774836/9FE636881EFD30767D8E8E60521F7F53438318F5/"]
+	},
+	{
+	
+	"name":"Hallway towards Artists Rest",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"sitting on a couch in the hallway towards Artists Rest<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827790701/095E955FA9D1BEE4E4F6C715D652AC44003F2C88/"]
+	},
+	{
+	
+	"name":"in the Artist's Rest Sauna Lockers",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located in the left farthest sauna lockers <br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827827622/E0933E3B50953749AC99EA6430EA70B504928DBE/"]
+	},
+	{
+	
+	"name":"Artist's Rest Exit Hallway",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located near the broken Tour Speaker in the locker.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827940639/29AAB443572E0034F406C11F200830E5CF1CB197/"]
+	},
+	{
+	
+	"name":"Outside Sewers Boss Room",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"near a closed door in the sewer is a breakable barrel that is partially submerged in the ground<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827972417/D2F8BE4F295F76CF24CE92D56930C18230B72401/"]
+	},
+	{
+	
+	"name":"Before Emergency Shaft R Entrance",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"this one is located just before the entrance into the sewers on a bookshelf<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827982837/6822538D8165BFC9738FEBAD18BF8FF3DFCE0F55/"]
+	},
+	{
+	
+	"name":"Joey Drew's Safe House",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"a copy is above his bed on a shelf<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827992075/B1ED20850B260694A9D6649439C0050B343F6950/"]
+	},
+	{
+	
+	"name":"Hotel Safe & Sound",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located inside the in Safe & Sound box, grab this first before the renewable items<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828074523/BAC050087550F860FED425F04048913B70A2B839/"]
+	},
+	{
+	
+	"name":"The Old Studio",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"a Illusion of Living book is located inside the Old Studio in chapter 4 it is located on the right side of the room on the lower portion of an animators Desk<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845826602319/6FFF45AEB8D7C9F9A8CD73CB950843AB5233AF73/"]
+	},
+	{
+	
+	"name":"GENT Building Reception Desk",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"on a shelf behind the reception desk<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828513439/20473FA70CD196ED8B230A5CB204D3DDEEEA586B/"]
+	},
+	{
+	
+	"name":"The Cyclebreakers Containment Area",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located in a pile of stuff next to the Contraband display<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828157513/E89DFD1D0EF43C1A6C2B067892127E9C0CA1059C/"]
+	},
+	{
+	
+	"name":"City Train Station",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"sitting on a bench in the City Train Station<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828200303/8D8FC13EF3737B5F3FD5CECD61B98CC2C656533F/"]
+	},
+	{
+	
+	"name":"Track 8",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located in one of the lockers on track 8<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828264821/6AA5F3B2B24815551F9E611497DD3E53908F9110/"]
+	},
+	{
+	
+	"name":"North Wing Second Keeper Area",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"this one is located near the Alice Angel figure item to repair the toybox with, slightly outside of the alcove that contains that repair part on a dresser<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828538887/FDBCAC790D86DB321D933A02BF67D17D5CA59D17/"]
+	},
+	{
+	
+	"name":"Wilson's Library",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located on a self on the left in the corner of the library<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828349832/33CF4B7DC1AA340C1D8133BB27B0103437624FEA/"]
+	},
+	{
+	
+	"name":"Alice Angel Boss Room",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located towards the back of the room on a suprisingly dark shelf<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828302999/FF62234EDB8FBA49BFECDA7F1A575BCD9AF63E0C/"]
+	},
+	{
+	
+	"name":"Stairwell Down to Wilsons Lab",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"in the stairwell next to a tipped barrel<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828409100/1906ED51A05EFCE8625DB548B114EB37D02CC0A6/"]
+	},
+	{
+	
+	"name":"Before Wilson's Lab",
+	"type":"Illusion of Living Book",
+	"subtype": "",
+	"comments":"located in a locker before going into wilsons lab (the point of no return)<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828361513/56E4B7702AC2BD3324A699089B295221D1A241F4/"]
+	},
+	{
+	
+	"name":"Heavenly Tops",
+	"type":"Thick Ink",
+	"subtype": "",
+	"comments":"Requires Flow ability<br>located to the left of the Fountain up in a back room that unlocks with a code on the other side of a gate. the code for this gate is located in 'A Complaint - Unknown' in the locker near the GENT lock<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827334526/3420FFBE2CC288BCF959474D5586CF2DCC3220C8/",
+		"https://steamuserimages-a.akamaihd.net/ugc/1932635845827334593/7A48A2881FC85E0AE6346275235DB4B4C41E9A4D/"]
+	},
+	{
+	
+	"name":"Heavenly Toys Factory",
+	"type":"Thick Ink",
+	"subtype": "",
+	"comments":"this one is just sitting out in the open on a desk as you walk in. almost everyone probably picked this one up.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827470219/9F50BD1CC200B139CDB74109668D9CAB1DAC34FD/"]
+	},
+	{
+	
+	"name":"Artist Atrium Supply",
+	"type":"Thick Ink",
+	"subtype": "",
+	"comments":"GENT Pipe<br>",
+	"comments":"this one is gotten by solving the 'Hiding Treasures' Audio Log and then following a small path just past a previously locked gate around where you originally found the Audio log",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827549589/C669CDD1991E595C17D1691BC2F3346A903875CC/"]
+	},
+	{
+	
+	"name":"Animators Alley Sewers",
+	"type":"Thick Ink",
+	"subtype": "",
+	"comments":"Flow ability<br>",
+	"comments":"after you get the Flow ability this door should become unlocked and give you access to an Ink Canister<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827754246/F4646087A8D1EC8ED890F97B25089F158045DF59/"]
+	},
+	{
+	
+	"name":"Animator's Rest",
+	"type":"Thick Ink",
+	"subtype": "",
+	"comments":"located in Upper Beds. need to have the hoist moved to get up there<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827814472/6913DC3C62E3EF4573B6B4316EA91A33BE40F296/"]
+	},
+	{
+	
+	"name":"Emergency Shaft R",
+	"type":"Thick Ink",
+	"subtype": "",
+	"comments":"pull the lever in the left rooms and in the right rooms you will find an opened crawl space to get to this one<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828023107/073F54AE4BE89E8F9578D1A4178D85ED92FE2AE5/",
+	"https://steamuserimages-a.akamaihd.net/ugc/1932635845828023060/E3BF0761775AA92C4D00FAA72E76A4FF097DA6A2/"]
+	},
+	{
+	
+	"name":"City - Good Tower Coffee",
+	"type":"Thick Ink",
+	"subtype": "",
+	"comments":"located in this shop after the Joey Drew cutscenes<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828068625/8FD43875D7E14737CE26EBB2BD4B3BD448C8B893/"]
+	},
+	{
+	
+	"name":"Lurker's Layer",
+	"type":"Thick Ink",
+	"subtype": "",
+	"comments":"up a ladder on the left side of the room sitting on a desk<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828105988/B537C2BD3F3837BF530252815D41DA4EE6A1FB96/"]
+	},
+	{
+	
+	"name":"Alice Angel's Arena",
+	"type":"Thick Ink",
+	"subtype": "",
+	"comments":"in the right side lever room there is a breakable hole in the wall the ink canister is in there<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828303114/033DFED450B9E38C0DF9292454DB4388FB5464A4/"]
+	},
+	{
+	
+	"name":"Heavenly Toys",
+	"type":"themeatly Location",
+	"subtype": "",
+	"comments":"located in the Heavnely Tops Stairwell Alcove<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827369621/2544D61DBD6244B34E5EE8BB54ED1E0F395F8C11/"]
+	},
+	{
+	
+	"name":"Artists Atrium",
+	"type":"themeatly Location",
+	"subtype": "",
+	"comments":"this one is located in the office to the right of Arist's Alley Entrance<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827494097/37799A32E64BB59FEE59664090884521CC6E2345/"]
+	},
+	{
+	
+	"name":"Artists Atrium",
+	"type":"themeatly Location",
+	"subtype": "",
+	"comments":"located in the corner of the first room of the locker room<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827764025/70D4B93E8B472A987AF2FCA06FF9BF9D7DB4928E/"]
+	},
+	{
+	
+	"name":"Artist's Alley Sewers",
+	"type":"themeatly Location",
+	"subtype": "",
+	"comments":"located between the Linker Ink Well and the thick ink canister pipe that Porter gets stuck in<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828867060/340EBB18261447CE3A95854A206574B8EBD3CD1B/"]
+	},
+	{
+	
+	"name":"Artist's Rest",
+	"type":"themeatly Location",
+	"subtype": "",
+	"comments":"located to the right of the desk the GENT upgrade schematic was located <br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827848336/6B9DDB6E93F455FE9709B82CD5E085283F86FEEB/"]
+	},
+	{
+	
+	"name":"Between Elevator Shaft and Sewers",
+	"type":"themeatly Location",
+	"subtype": "",
+	"comments":"on a wall<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828496153/E66626521EE6EDDD874325B0BC78C6FF9D9951DA/"]
+	},
+	{
+	
+	"name":"City Alley Way before Hotel",
+	"type":"themeatly Location",
+	"subtype": "",
+	"comments":"this one is located up above the street on the wall to the left, while headed to the Hotel. use Flow to get to it.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828470755/B39258F50B68ABABEEDF30F7AB026E6355B3137D/"]
+	},
+	{
+	
+	"name":"Alice Angel Boss Fight Area",
+	"type":"themeatly Location",
+	"subtype": "",
+	"comments":"of the left side lower side room towards the back of the main room<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828303055/780DC9B8AD79DE313BDAC76EFE0BA6EF54130867/"]
+	},
+	{
+	
+	"name":"GENT Building",
+	"type":"themeatly Location",
+	"subtype": "",
+	"comments":"in the first room immediately to the Right as you come in.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828479599/6B0F0A421F37E7AFA16D31BEBEEB6A6144B390BF/"]
+	},
+	{
+	
+	"name":"Northern Wing Halls",
+	"type":"themeatly Location",
+	"subtype": "",
+	"comments":"located just past the Alice Angel Boss FIght Area on a lower level just before the Keeper stealth segments<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845828447504/92B9EA2B84FFF8DAF73E56C1672A3DE3E75235DC/"]
+	},
+	{
+	
+	"name":"Plaything",
+	"type":"Other",
+	"subtype": "",
+	"comments":"the toy for this is located in a gated off hall just past Heavenly Toys behind a cutout of Bendy<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827407241/9D2A12DEC60F9690345D5A3D0996E3F86C120049/"]
+	},
+	{
+	
+	"name":"Shock Pipe Upgrade",
+	"type":"Other",
+	"subtype": "",
+	"comments":"located in Artist's Rest Lost and found on a desk<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827835877/E3918E13AE64D6BCC3864965626FC2698EAE19E3/"]
+	},
+	{
+	
+	"name":"Pipe Upgrade 2",
+	"type":"Other",
+	"subtype": "",
+	"comments":"this one requires you to pick up the 'Feeding Time' note in Lurkers Layer in the GENT Building, then you have to go back thru the game to the Cafeteria then bring it back to the Lurker in the GENT Building.<br>",
+	"imgSrc":["https://steamuserimages-a.akamaihd.net/ugc/1932635845827486381/80F79E21FE988EC030FBEAB2418D1DCE9902E6DE/",
+		"https://steamuserimages-a.akamaihd.net/ugc/1981050588097803769/F8DE7680F43E7029A30E400C3FD9DE82EB7D0FAF/"]
+	}
+]	
