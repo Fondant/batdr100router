@@ -116,8 +116,7 @@
 				for (var i = 0; i <= organizedRoute.length - 1; i++) 
 				{
 					let imageStringBuilder = '';
-					if (argument[organizedRoute[i]].imgSrc.length != undefined) 
-					{
+					
 						for (var j = 0; j <= argument[organizedRoute[i]].imgSrc.length - 1; j++) 
 						{
 							imageStringBuilder += `<a href="`+argument[organizedRoute[i]].imgSrc[j]+`" data-lightbox="screenshot"><img src="`+argument[organizedRoute[i]].imgSrc[j]+`"></a>`;
@@ -128,7 +127,7 @@
 								`+imageStringBuilder+`</span>
 								</div>`
 					}
-				}
+				
 				generateSortableGrid();
 			}
 
