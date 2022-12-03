@@ -95,7 +95,7 @@
 				
 				$("#sortable").sortable();
 			});
-			$( "#sortable" ).on( "sortchange", function( event, ui ) {figureOutAndUpdate();
+			$( "#sortable" ).on( "sortstop", function( event, ui ) {figureOutAndUpdate();
 			updateSiteJson(newData);} );
 			function applyRun() 
 			{
